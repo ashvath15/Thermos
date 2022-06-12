@@ -13,7 +13,7 @@ public class Thermos {
 	}
 	
 	void display() {
-		//code
+		System.out.println("f");
 	}
 	
 	void pourliquid(int liquid_amt) {
